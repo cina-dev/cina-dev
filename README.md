@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey, I'm Sina
 
-<!--
-**cina-dev/cina-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Python developer learning to build clean, useful, and creative tools.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- Learning Python through small algorithms & real-world apps
+- Building a calendar app from scratch
+- Experimenting with GitHub and open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Goals
+- Become job-ready as a junior developer
+- Learn web development (HTML, CSS, JS)
+- Join open-source projects
+
+## 🧰 Tools
+Python | Git | VS Code | Linux (optional)
+
+---
+
+> ⚒️ Currently learning, always building.
